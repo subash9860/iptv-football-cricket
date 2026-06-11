@@ -20,28 +20,20 @@ https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
 #EXTINF:-1 tvg-id="ChileVision.cl" tvg-country="CL" group-title="World Cup 2026 - Chile",ChileVision (CL)
 http://38.250.127.17:9800/play/a05h/index.m3u8
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-country="CO" group-title="World Cup 2026 - Colombia",RCN Mas (CO)
-https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+https://jmp2.uk/plu-69de4ad924a6d521f8b0a348.m3u8
 #EXTINF:-1 tvg-id="DasErste.de" tvg-country="DE" group-title="World Cup 2026 - Germany",Das Erste (ARD) (DE)
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 #EXTINF:-1 tvg-id="ZDF.de" tvg-country="DE" group-title="World Cup 2026 - Germany",ZDF (DE)
-https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
-#EXTINF:-1 tvg-id="M6.fr" tvg-country="FR" group-title="World Cup 2026 - France",M6 (FR)
-https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-country="FR" group-title="World Cup 2026 - France",TF1 (FR)
-https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
+https://test.946985.filegear-sg.me/proxy/71eb898aa398f1b9
 #EXTINF:-1 tvg-id="La1.es" tvg-country="ES" group-title="World Cup 2026 - Spain",La 1 (RTVE) (ES)
 http://92.176.119.180:2095/play/a16x
 #EXTINF:-1 tvg-id="Rai1.it" tvg-country="IT" group-title="World Cup 2026 - Italy",Rai 1 (IT)
-https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
+https://srv1.adriatelekom.com/Rai1/index.m3u8
 #EXTINF:-1 tvg-id="Rai2.it" tvg-country="IT" group-title="World Cup 2026 - Italy",Rai 2 (IT)
-https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
-#EXTINF:-1 tvg-id="NHKBS.jp" tvg-country="JP" group-title="World Cup 2026 - Japan",NHK BS (JP)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+https://srv1.adriatelekom.com/Rai2/index.m3u8
 #EXTINF:-1 tvg-id="SABC1.za" tvg-country="ZA" group-title="World Cup 2026 - South Africa",SABC 1 (ZA)
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8
 #EXTINF:-1 tvg-id="SABC3.za" tvg-country="ZA" group-title="World Cup 2026 - South Africa",SABC 3 (ZA)
 https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/master.m3u8
-#EXTINF:-1 tvg-id="CCTV5.cn" tvg-country="CN" group-title="World Cup 2026 - China",CCTV-5 (sports) (CN)
-http://74.91.26.218:82/live/cctv5hd.m3u8
-#EXTINF:-1 tvg-id="CCTV5Plus.cn" tvg-country="CN" group-title="World Cup 2026 - China",CCTV-5+ (sports) (CN)
-http://192.151.150.154/live/cctv5p.m3u8

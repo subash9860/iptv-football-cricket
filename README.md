@@ -93,13 +93,19 @@ For the **full** iptv-org master list (all channels worldwide):
 https://iptv-org.github.io/iptv/index.m3u
 ```
 
-### Regenerate
-The playlist is built from the iptv-org API:
+### Auto-refresh (daily)
+A GitHub Action ([`.github/workflows/update-playlist.yml`](.github/workflows/update-playlist.yml))
+runs [`scripts/build_playlist.py`](scripts/build_playlist.py) **every day at 05:00 UTC**, rebuilds
+the playlist from the live iptv-org API, and commits if any stream changed. Trigger it manually any
+time via repo → **Actions** → *Update playlist* → **Run workflow**.
+
+Run it locally too:
 ```bash
-curl -sL -o channels.json https://iptv-org.github.io/api/channels.json
-curl -sL -o streams.json  https://iptv-org.github.io/api/streams.json
-# then match broadcaster names -> stream URLs (see commit history for the script)
+python3 scripts/build_playlist.py
 ```
+
+Dead/rotated streams are dropped automatically; edit the `PICKS` list in the script to add or remove
+broadcasters.
 
 ---
 

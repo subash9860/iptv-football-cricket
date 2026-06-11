@@ -1,0 +1,40 @@
+name: Update playlist
+
+# Rebuild index.m3u / worldcup-2026.m3u from the live iptv-org API.
+on:
+  schedule:
+    - cron: "0 5 * * *"   # daily at 05:00 UTC
+  workflow_dispatch: {}    # manual "Run workflow" button
+
+permissions:
+  contents: write          # allow the bot to commit refreshed streams
+
+concurrency:
+  group: update-playlist
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Rebuild playlist
+        run: python3 scripts/build_playlist.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain index.m3u worldcup-2026.m3u)" ]; then
+            git add index.m3u worldcup-2026.m3u
+            git commit -m "chore: refresh playlist from iptv-org [skip ci]"
+            git push
+            echo "playlist updated"
+          else
+            echo "no stream changes"
+          fi
