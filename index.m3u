@@ -28,7 +28,7 @@ https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-country="FR" group-title="World Cup 2026 - France",TF1 (FR)
 https://test.946985.filegear-sg.me/proxy/71eb898aa398f1b9
 #EXTINF:-1 tvg-id="La1.es" tvg-country="ES" group-title="World Cup 2026 - Spain",La 1 (RTVE) (ES)
-http://92.176.119.180:2095/play/a16x
+http://92.176.119.180:2095/play/a1f8
 #EXTINF:-1 tvg-id="Rai1.it" tvg-country="IT" group-title="World Cup 2026 - Italy",Rai 1 (IT)
 https://srv1.adriatelekom.com/Rai1/index.m3u8
 #EXTINF:-1 tvg-id="Rai2.it" tvg-country="IT" group-title="World Cup 2026 - Italy",Rai 2 (IT)
