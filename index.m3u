@@ -7,10 +7,6 @@ https://amg01334-beinsportsllc-beinxtra-samsungau-eiyvc.amagi.tv/playlist/amg013
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="KNSD481.us" tvg-country="US" group-title="World Cup 2026 - USA",Telemundo (KNSD 48.1) (US)
 https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
-#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-country="MX" group-title="World Cup 2026 - Mexico",Azteca Uno (MX)
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-country="MX" group-title="World Cup 2026 - Mexico",Azteca 7 (MX)
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-country="MX" group-title="World Cup 2026 - Mexico",Las Estrellas (MX)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="RedeGlobo.br" tvg-country="BR" group-title="World Cup 2026 - Brazil",Rede Globo (BR)
