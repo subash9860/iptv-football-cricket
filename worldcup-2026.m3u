@@ -21,6 +21,8 @@ https://jmp2.uk/plu-69de4ad924a6d521f8b0a348.m3u8
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 #EXTINF:-1 tvg-id="ZDF.de" tvg-country="DE" group-title="World Cup 2026 - Germany",ZDF (DE)
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 tvg-id="M6.fr" tvg-country="FR" group-title="World Cup 2026 - France",M6 (FR)
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_q2hyb21h/index-hd720.m3u8
 #EXTINF:-1 tvg-id="La1.es" tvg-country="ES" group-title="World Cup 2026 - Spain",La 1 (RTVE) (ES)
 http://92.176.119.180:2095/play/a1f8
 #EXTINF:-1 tvg-id="Rai1.it" tvg-country="IT" group-title="World Cup 2026 - Italy",Rai 1 (IT)
@@ -29,5 +31,3 @@ https://srv1.adriatelekom.com/Rai1/index.m3u8
 https://srv1.adriatelekom.com/Rai2/index.m3u8
 #EXTINF:-1 tvg-id="SABC1.za" tvg-country="ZA" group-title="World Cup 2026 - South Africa",SABC 1 (ZA)
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8
-#EXTINF:-1 tvg-id="SABC3.za" tvg-country="ZA" group-title="World Cup 2026 - South Africa",SABC 3 (ZA)
-https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/master.m3u8
