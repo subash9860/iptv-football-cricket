@@ -22,7 +22,8 @@ https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 #EXTINF:-1 tvg-id="ZDF.de" tvg-country="DE" group-title="World Cup 2026 - Germany",ZDF (DE)
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-country="FR" group-title="World Cup 2026 - France",M6 (FR)
-https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_q2hyb21h/index-hd720.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://99.27.51.147:8080/M6/index.m3u8
 #EXTINF:-1 tvg-id="La1.es" tvg-country="ES" group-title="World Cup 2026 - Spain",La 1 (RTVE) (ES)
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
 #EXTINF:-1 tvg-id="Rai1.it" tvg-country="IT" group-title="World Cup 2026 - Italy",Rai 1 (IT)
