@@ -5,6 +5,10 @@ https://amg01334-beinsportsllc-beinxtra-samsungau-eiyvc.amagi.tv/playlist/amg013
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="KNSD481.us" tvg-country="US" group-title="World Cup 2026 - USA",Telemundo (KNSD 48.1) (US)
 https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-country="MX" group-title="World Cup 2026 - Mexico",Azteca Uno (MX)
+http://45.189.62.33:8002/play/a0cc/index.m3u8
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-country="MX" group-title="World Cup 2026 - Mexico",Azteca 7 (MX)
+http://45.189.62.33:8002/play/a0fm/index.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-country="MX" group-title="World Cup 2026 - Mexico",Las Estrellas (MX)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="RedeGlobo.br" tvg-country="BR" group-title="World Cup 2026 - Brazil",Rede Globo (BR)
@@ -22,6 +26,9 @@ https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-country="FR" group-title="World Cup 2026 - France",M6 (FR)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147:8080/M6/index.m3u8
+#EXTINF:-1 tvg-id="TF1.fr" tvg-country="FR" group-title="World Cup 2026 - France",TF1 (FR)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://151.80.18.177:86/TF1_HD/index.m3u8
 #EXTINF:-1 tvg-id="La1.es" tvg-country="ES" group-title="World Cup 2026 - Spain",La 1 (RTVE) (ES)
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
 #EXTINF:-1 tvg-id="Rai1.it" tvg-country="IT" group-title="World Cup 2026 - Italy",Rai 1 (IT)
