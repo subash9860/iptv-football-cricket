@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-country="US" group-title="World Cup 2026 - USA",Fox Sports 1 (US)
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-country="US" group-title="World Cup 2026 - USA",beIN SPORTS XTRA (free) (US)
-https://amg01334-beinsportsllc-beinxtra-samsungau-eiyvc.amagi.tv/playlist/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCUniverso.us" tvg-country="US" group-title="World Cup 2026 - USA",NBC Universo (US)
 http://187.102.210.46/universo/index.m3u8
 #EXTINF:-1 tvg-id="KNSD481.us" tvg-country="US" group-title="World Cup 2026 - USA",Telemundo (KNSD 48.1) (US)
