@@ -8,7 +8,7 @@ http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-country="MX" group-title="World Cup 2026 - Mexico",Las Estrellas (MX)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="RedeGlobo.br" tvg-country="BR" group-title="World Cup 2026 - Brazil",Rede Globo (BR)
-http://138.255.2.6:8084/GLOBOHD/index.m3u8
+https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-country="AR" group-title="World Cup 2026 - Argentina",TyC Sports (AR)
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
 #EXTINF:-1 tvg-id="ChileVision.cl" tvg-country="CL" group-title="World Cup 2026 - Chile",ChileVision (CL)
