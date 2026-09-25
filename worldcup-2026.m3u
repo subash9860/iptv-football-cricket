@@ -14,7 +14,7 @@ https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
 #EXTINF:-1 tvg-id="ChileVision.cl" tvg-country="CL" group-title="World Cup 2026 - Chile",ChileVision (CL)
 http://15.204.246.24:8080/CHVHD/index.m3u8
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-country="CO" group-title="World Cup 2026 - Colombia",RCN Mas (CO)
-https://jmp2.uk/plu-69de4ad924a6d521f8b0a348.m3u8
+http://45.226.205.96:48000/play/a0af/index.m3u8
 #EXTINF:-1 tvg-id="DasErste.de" tvg-country="DE" group-title="World Cup 2026 - Germany",Das Erste (ARD) (DE)
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 #EXTINF:-1 tvg-id="ZDF.de" tvg-country="DE" group-title="World Cup 2026 - Germany",ZDF (DE)
