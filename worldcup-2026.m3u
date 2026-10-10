@@ -14,7 +14,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="RedeGlobo.br" tvg-country="BR" group-title="World Cup 2026 - Brazil",Rede Globo (BR)
 https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-country="AR" group-title="World Cup 2026 - Argentina",TyC Sports (AR)
-https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-id="ChileVision.cl" tvg-country="CL" group-title="World Cup 2026 - Chile",ChileVision (CL)
 http://15.204.246.24:8080/CHVHD/index.m3u8
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-country="CO" group-title="World Cup 2026 - Colombia",RCN Mas (CO)
