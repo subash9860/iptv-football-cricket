@@ -8,26 +8,26 @@ https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-country="MX" group-title="World Cup 2026 - Mexico",Azteca 7 (MX)
 http://187.245.231.226:8000/play/a0uz/index.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-country="MX" group-title="World Cup 2026 - Mexico",Las Estrellas (MX)
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+http://45.189.151.7:8000/play/a07s
 #EXTINF:-1 tvg-id="RedeGlobo.br" tvg-country="BR" group-title="World Cup 2026 - Brazil",Rede Globo (BR)
-https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-country="AR" group-title="World Cup 2026 - Argentina",TyC Sports (AR)
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-id="ChileVision.cl" tvg-country="CL" group-title="World Cup 2026 - Chile",ChileVision (CL)
 http://15.204.246.24:8080/CHVHD/index.m3u8
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-country="CO" group-title="World Cup 2026 - Colombia",RCN Mas (CO)
-http://45.226.205.96:48000/play/a0af/index.m3u8
+http://45.224.96.220:18000/play/a098/index.m3u8
 #EXTINF:-1 tvg-id="DasErste.de" tvg-country="DE" group-title="World Cup 2026 - Germany",Das Erste (ARD) (DE)
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 #EXTINF:-1 tvg-id="ZDF.de" tvg-country="DE" group-title="World Cup 2026 - Germany",ZDF (DE)
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-country="FR" group-title="World Cup 2026 - France",M6 (FR)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147:8080/M6/index.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-country="FR" group-title="World Cup 2026 - France",TF1 (FR)
 http://149.62.177.107:9999/TF1/index.m3u8
 #EXTINF:-1 tvg-id="La1.es" tvg-country="ES" group-title="World Cup 2026 - Spain",La 1 (RTVE) (ES)
-https://rtvelivestream.rtve.es/rtvesec/la1/la1_main.m3u8
+https://cdn.stmify.com/zapitv/stream/LA_1/la1_4k.mpd
 #EXTINF:-1 tvg-id="Rai1.it" tvg-country="IT" group-title="World Cup 2026 - Italy",Rai 1 (IT)
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
 #EXTINF:-1 tvg-id="Rai2.it" tvg-country="IT" group-title="World Cup 2026 - Italy",Rai 2 (IT)
@@ -38,4 +38,4 @@ https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8
 #EXTINF:-1 tvg-id="SABC3.za" tvg-country="ZA" group-title="World Cup 2026 - South Africa",SABC 3 (ZA)
 https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/master.m3u8
 #EXTINF:-1 tvg-id="CCTV5Plus.cn" tvg-country="CN" group-title="World Cup 2026 - China",CCTV-5+ (sports) (CN)
-https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
+https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
