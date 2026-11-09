@@ -24,8 +24,6 @@ https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-country="FR" group-title="World Cup 2026 - France",M6 (FR)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147:8080/M6/index.m3u8
-#EXTINF:-1 tvg-id="TF1.fr" tvg-country="FR" group-title="World Cup 2026 - France",TF1 (FR)
-http://149.62.177.107:9999/TF1/index.m3u8
 #EXTINF:-1 tvg-id="La1.es" tvg-country="ES" group-title="World Cup 2026 - Spain",La 1 (RTVE) (ES)
 https://cdn.stmify.com/zapitv/stream/LA_1/la1_4k.mpd
 #EXTINF:-1 tvg-id="Rai1.it" tvg-country="IT" group-title="World Cup 2026 - Italy",Rai 1 (IT)
